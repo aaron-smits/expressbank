@@ -3,8 +3,10 @@ Implementing the gobank api using Express and Typescript
 
 
 ## To Do
-
+- [x] set up dev server script in package.json
 - [x] Environment variables (dotenv) 
+- [x] Set up the project structure
+- [x] set up tsconfig.json
 - [ ] JWT Authentication infrastructure
 - [ ] Authentication implementation on all endpoints
 - [ ] Create a new account
